@@ -4,5 +4,5 @@ third
 fourth line
 
 Plus some more
-New lines here 
+New lines 
 To test git gui
