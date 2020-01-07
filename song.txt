@@ -2,3 +2,7 @@ First line
 Second line
 third
 fourth line
+
+Plus some
+New lines 
+To test git gui
