@@ -3,6 +3,6 @@ Second line
 third
 fourth line
 
-Plus some
+Plus some more
 New lines 
 To test git gui
